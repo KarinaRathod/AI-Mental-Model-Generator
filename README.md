@@ -123,10 +123,6 @@ Topic: "Career Growth"
 Each with explanation + real-life usage.
 
 ---
-## ⚠️ Disclaimer
 
-This tool provides AI-generated insights for educational purposes and should not replace professional advice.
-
----
 
 
